@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jish-v
+- 👀 I’m interested in lots of things
+- 🌱 I’m currently learning front end, backend
+- 📫 Reach me on jish_v@outlook.com
